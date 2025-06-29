@@ -1,0 +1,16 @@
+{
+    "1d1666b8-dd21-4230-a815-882e09817c1e": {
+        "id": "1d1666b8-dd21-4230-a815-882e09817c1e",
+        "title": "Team Meeting",
+        "description": "Weekely Team Sync",
+        "start_time": "2025-07-0409:30:00",
+        "end_time": "2025-07-34T10:30:00"
+    },
+    "299c8278-fb5b-4be9-8ea1-e9b652692751": {
+        "id": "299c8278-fb5b-4be9-8ea1-e9b652692751",
+        "title": "Gym Workout(changed)",
+        "description": "Chest day + tricep day",
+        "start_time": "2025-07-01T09:30:00",
+        "end_time": "2025-07-01T10:30:00"
+    }
+}
