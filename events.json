@@ -12,5 +12,12 @@
         "description": "Chest day + tricep day",
         "start_time": "2025-07-01T09:30:00",
         "end_time": "2025-07-01T10:30:00"
+    },
+    "46f3c3d8-fd26-4e7e-be7e-df988c5b53f9": {
+        "id": "46f3c3d8-fd26-4e7e-be7e-df988c5b53f9",
+        "title": "diet to take",
+        "description": "only eat heathly food",
+        "start_time": "2025-06-30T06:30:00",
+        "end_time": "2025-06-30T06:50:00"
     }
 }
